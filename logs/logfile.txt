@@ -1,0 +1,17 @@
+[2025-10-08 11:46:38] User moderator: Logged in
+[2025-10-08 11:46:42] User moderator: Made a post named asd
+[2025-10-08 11:46:53] User moderator: Viewed a post titled asd by moderator
+[2025-10-08 14:15:11] User moderator: Viewed a post titled Mujo i vic o matematici by Mujo
+[2025-10-08 14:15:21] User moderator: Logged out
+[2025-10-08 17:32:31] User Mujo: Logged in
+[2025-10-08 17:32:47] User Mujo: Viewed a post titled Mujo i vic o matematici by Mujo
+[2025-10-08 17:33:18] User Mujo: Made a post named ls
+[2025-10-08 17:33:21] User Mujo: Logged out
+[2025-10-08 17:33:28] User admin: Logged in
+[2025-10-08 17:33:30] User admin: Viewed a post titled ls by Mujo
+[2025-10-08 17:34:03] User admin: Viewed a post titled Haso i doktor by Haso
+[2025-10-08 17:35:09] User admin: Logged out
+[2025-10-08 17:35:15] User Mujo: Logged in
+[2025-10-08 17:35:42] User Mujo: Logged out
+[2025-10-08 17:35:48] User admin: Logged in
+[2025-10-08 17:36:02] User admin: Logged out
